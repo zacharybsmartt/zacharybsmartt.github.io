@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "zacharysmartt"
+title                    : "Zachary Bucknor-Smartt"
 title_separator          : "-"
 name                     : &name "Zachary Bucknor-Smartt"
 description              : &description "Me.Like.Robor"
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/home/zachary/ZBS/personal_website/academicpages.github.io/images/zacharysmartt.jpg"
   name             : "Zachary Bucknor-Smartt"
   pronouns         : # example: "she/her"  
   bio              : "Short bio moment"
