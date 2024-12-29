@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/home/zachary/ZBS/personal_website/academicpages.github.io/images/zacharysmartt.jpg"
+  avatar           : "zacharysmartt.jpg"
   name             : "Zachary Bucknor-Smartt"
   pronouns         : # example: "she/her"  
   bio              : ""
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : zachary_smartt
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/zacharybsmartt/
+  linkedin         : zacharybsmartt
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
