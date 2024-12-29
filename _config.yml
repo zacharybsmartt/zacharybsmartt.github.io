@@ -24,19 +24,19 @@ author:
   avatar           : "/home/zachary/ZBS/personal_website/academicpages.github.io/images/zacharysmartt.jpg"
   name             : "Zachary Bucknor-Smartt"
   pronouns         : # example: "she/her"  
-  bio              : "Short bio moment"
+  bio              : ""
   location         : "College Station, TX"
-  employer         : "Human-Empowering Robotics and Control Laboratory"
+  employer         : "Texas A&M University"
   uri              : # URL
   email            : "zacharybsmartt@tamu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0006-0174-7642"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -49,16 +49,16 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : zachary_smartt
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/zacharybsmartt/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
