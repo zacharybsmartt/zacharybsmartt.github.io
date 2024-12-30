@@ -39,6 +39,32 @@ I am a senior at Texas A&M University pursuing a BSc in Mechanical Engineering w
 
 ---
 
+## Offices and Labs
+
+- **Human-Empowering Robotics and Control Laboratory**  
+  Location: JCAIN 111 (James J. Cain Building)  
+  Role: Undergraduate Researcher  
+  Focus: Exoskeleton control and strength amplification.
+
+- **T.U.R.T.L.E Robotics Lab**  
+  Location: HEB 023 (Haynes Engineering Building)  
+  Role: Principal Investigator
+  Focus: Mentorship and innovation in robotics, with projects ranging from quadrupeds to EMG-controlled prosthetics.
+
+- **TAMU Mechanical Engineering Advising Office**
+  Location: MEOB 200
+  Role: Mechanical Engineering Student Ambassador
+  Focus: Offering advice to current and future students on just about anything you could ask as it relates to mechanical engineering!
+
+---
+
+## Hobbies outside of my passion for cool robots
+
+- **Hiking**: If I am not in the lab I am on a hike, this world is just too big and beautiful to look at pictures of it. 
+- **MMA/Kickboxing**: I have been a kickboxer since the age of 6, after a long career I have shifted my focus to engineering but once in a while the mats call in the summer and I return to a local MMA gym.
+- **Fitness**: Staying active through lifting, very good for the brain on an early morning.
+- **Gaming**: Playing strategy and simulation games to relax. Ends up being not so relaxing.
+
 ## Contact
 
 Feel free to reach out to me via [email](mailto:zacharybsmartt@tamu.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/zacharybsmartt/).
