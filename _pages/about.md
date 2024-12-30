@@ -42,22 +42,14 @@ I am a senior at Texas A&M University pursuing a BSc in Mechanical Engineering w
 
 ## Offices and Labs
 
-- **Human-Empowering Robotics and Control Laboratory**  
-  Location: JCAIN 111 (James J. Cain Building)  
-  Role: Undergraduate Researcher  
-  Focus: Exoskeleton control and strength amplification.
-
-- **T.U.R.T.L.E Robotics Lab**  
-  Location: HEB 023 (Haynes Engineering Building)  
-  Role: Principal Investigator
-  Focus: Mentorship and innovation in robotics, with projects ranging from quadrupeds to EMG-controlled prosthetics.
-
-- **TAMU Mechanical Engineering Advising Office**
-  Location: MEOB 200
-  Role: Mechanical Engineering Student Ambassador
-  Focus: Offering advice to current and future students on just about anything you could ask as it relates to mechanical engineering!
+| **Lab/Office**                                     | **Location**                        | **Role**                              | **Focus**                                                                                  |
+|----------------------------------------------------|-------------------------------------|---------------------------------------|--------------------------------------------------------------------------------------------|
+| **Human-Empowering Robotics and Control Laboratory** | JCAIN 111 (James J. Cain Building)  | Undergraduate Researcher              | Exoskeleton control and strength amplification.                                            |
+| **T.U.R.T.L.E Robotics Lab**                      | HEB 023 (Haynes Engineering Building) | Principal Investigator                | Mentorship and innovation in robotics, with projects ranging from quadrupeds to EMG-controlled prosthetics. |
+| **TAMU Mechanical Engineering Advising Office**   | MEOB 200                            | Mechanical Engineering Student Ambassador | Offering advice to current and future students on mechanical engineering-related topics.   |
 
 ---
+
 
 ## Hobbies outside of my passion for cool robots
 
