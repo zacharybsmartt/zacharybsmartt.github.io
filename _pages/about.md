@@ -14,6 +14,7 @@ I am a senior at Texas A&M University pursuing a BSc in Mechanical Engineering w
 ## Research Interests
 
 - **Loco-manipulation**: Developing algorithms for multi-dof robots to navigate and interact with their environment.
+- **Legged Locomotion**: Interested in control and planning for legged robots to enable stable, efficient movement across various terrains.
 - **Intelligent Manipulation**: Applying optimization, control theory, and machine learning to enhance robot dexterity.
 - **Exoskeleton Control**: Investigating direct user control lower limb knee exoskeletons.
 - **Bayesian State Estimation**: Leveraging probabilistic methods to improve robot perception and decision-making.
