@@ -12,6 +12,11 @@ redirect_from:
 
 ---
 
+## Download My CV
+[Download CV (Up to date as of 12-29-2024)](files/ZBS_CV.pdf)
+
+---
+
 ## Education
 **Texas A&M University | College Station, TX**  
 *BSc. Mechanical Engineering, Mathematics Minor, Undergraduate Thesis Research Scholar*  
