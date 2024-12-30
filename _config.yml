@@ -82,6 +82,7 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  conferences_poster:
     title: 'Conference Posters'
 
 # Site Settings
