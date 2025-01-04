@@ -44,17 +44,16 @@ I am a senior at Texas A&M University pursuing a BSc in Mechanical Engineering w
 
 | **Lab/Office**                                     | **Location**                        | **Role**                              | **Focus**                                                                                  |
 |----------------------------------------------------|-------------------------------------|---------------------------------------|--------------------------------------------------------------------------------------------|
-| **Human-Empowering Robotics and Control Laboratory** | JCAIN 111 (James J. Cain Building)  | Undergraduate Researcher              | Exoskeleton control and strength amplification.                                            |
-| **T.U.R.T.L.E Robotics Lab**                      | HEB 023 (Haynes Engineering Building) | Principal Investigator                | Mentorship and innovation in robotics, with projects ranging from quadrupeds to EMG-controlled prosthetics. |
-| **TAMU Mechanical Engineering Advising Office**   | MEOB 200                            | Mechanical Engineering Student Ambassador | Offering advice to current and future students on mechanical engineering-related topics.   |
+| **[Human-Empowering Robotics and Control Laboratory](https://herc.engr.tamu.edu/)** | JCAIN 111 (James J. Cain Building)  | Undergraduate Researcher              | Exoskeleton control and strength amplification.                                            |
+| **[T.U.R.T.L.E Robotics Lab](https://turtlerobotics.org/)**                      | HEB 023 (Haynes Engineering Building) | Principal Investigator                | Mentorship and innovation in robotics, with projects ranging from quadrupeds to EMG-controlled prosthetics. |
+| **[TAMU Mechanical Engineering Advising Office](https://engineering.tamu.edu/mechanical/advising/undergraduate-advisors.html)**   | MEOB 200                            | Mechanical Engineering Student Ambassador | Offering advice to current and future students on mechanical engineering-related topics.   |
 
 ---
-
 
 ## Hobbies outside of my passion for cool robots
 
 - **Hiking**: If I am not in the lab I am on a hike, this world is just too big and beautiful to look at pictures of it. 
-- **MMA/Kickboxing**: I have been a kickboxer since the age of 6, after a long career I have shifted my focus to engineering but once in a while the mats call in the summer and I return to a local MMA gym.
+- **MMA/Kickboxing**: I have been a martial artist since the age of 7, after a long career I have shifted my focus to engineering but once in a while the mats call in the summer and I return to a local MMA gym.
 - **Fitness**: Staying active through lifting, very good for the brain on an early morning.
 - **Gaming**: Playing strategy and simulation games to relax. Ends up being not so relaxing.
 
