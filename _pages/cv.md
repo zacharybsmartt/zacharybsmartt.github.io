@@ -13,7 +13,7 @@ redirect_from:
 ---
 
 ## Download My CV
-[Download CV (Up to date as of 12-29-2024)](files/ZBS_CV.pdf)
+[Download CV (Up to date as of 12-29-2024)](ZBS_CV.pdf)
 
 ---
 
